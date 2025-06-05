@@ -1,7 +1,0 @@
-/home/chiyori/Code/Rust-Tutorial/actix-gcd/target/debug/deps/libpin_project_lite-12250a02a17ca230.rmeta: /home/chiyori/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pin-project-lite-0.2.16/src/lib.rs
-
-/home/chiyori/Code/Rust-Tutorial/actix-gcd/target/debug/deps/libpin_project_lite-12250a02a17ca230.rlib: /home/chiyori/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pin-project-lite-0.2.16/src/lib.rs
-
-/home/chiyori/Code/Rust-Tutorial/actix-gcd/target/debug/deps/pin_project_lite-12250a02a17ca230.d: /home/chiyori/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pin-project-lite-0.2.16/src/lib.rs
-
-/home/chiyori/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pin-project-lite-0.2.16/src/lib.rs:
