@@ -1,4 +1,4 @@
-#Chiyori's Rust tutorial repo following Rust Programming Book 2nd Edition
+# Chiyori's Rust tutorial repo following Rust Programming Book 2nd Edition
 
 ## Important
 Use
